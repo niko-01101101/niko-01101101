@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @niko-01101101
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning typescript and next.js web dev
-- 📫 How to reach me niko.01101101@gmail.com
-- 😄 Pronouns: He/Him
+
